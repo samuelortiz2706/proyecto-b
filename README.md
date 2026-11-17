@@ -19,3 +19,6 @@ Ejemplo de lista de numeros
 2. Hola
 3. hola
 4. hola
+Lista de otra cosa
+*  hola
+
