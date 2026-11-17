@@ -29,3 +29,14 @@ Lista de otra cosa
 > hola
 > hola
 > hola
+## Tabla de verdad del AND
+A | B | A AND B
+--|---|----------
+0 |0  |0
+0 |1  |0
+1 |0  |0
+1 |1  |1
+
+# Ejemplo de codigo en python
+'''python
+print("Hola mundo")
