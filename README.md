@@ -21,4 +21,11 @@ Ejemplo de lista de numeros
 4. hola
 Lista de otra cosa
 *  hola
-
+- [ ] Obtener la cita
+- [ ] Callate
+- [ ] Porfavor callate
+- [ ] XD
+> hola
+> hola
+> hola
+> hola
