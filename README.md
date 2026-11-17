@@ -40,3 +40,6 @@ A | B | A AND B
 # Ejemplo de codigo en python
 ```python
 print("Hola mundo")
+```
+Emojis: 😎
+
