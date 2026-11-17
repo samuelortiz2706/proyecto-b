@@ -38,5 +38,5 @@ A | B | A AND B
 1 |1  |1
 
 # Ejemplo de codigo en python
-``python
+```python
 print("Hola mundo")
